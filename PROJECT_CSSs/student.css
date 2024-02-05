@@ -1,0 +1,78 @@
+@font-face {
+            font-family: myfont;
+            src: url(Canela\ Deck\ Family/CanelaDeck-Regular-Trial.otf);
+        }
+	#form, #form1{
+		width: 70%;
+		margin-left: 25%;
+		background-color: #dcdcde;
+		border-radius: 15px;
+		margin-bottom: 4%;
+		}
+		
+	
+		#form input{
+		width: 80%;
+		}
+		#form input:focus{
+		outline: none;
+		}
+		#empty{
+		height: 10px;
+			}
+		hr{
+			
+			border-top: 1px solid grey;
+		}
+		#stutitle h2{
+			text-align:center;
+			margin-left: 20%;
+			font-family: myfont;
+		}
+	
+	.row{
+		margin-left: 4%;	
+	}
+	.row1{
+		background-color: #131356;
+		height: 60px;
+		border:2px solid #131356;
+		border-radius: 15px 15px 0 0;
+		margin-bottom: 4%;
+		margin-top: 4%;
+	}
+	.row1 h3{
+	    font-family: myfont;
+	    font-size: 30px;
+	    font-weight: 400;
+	    color: #fff;
+	    letter-spacing: 0.2px;
+	   margin-left: 3%;
+    }
+    #form select{
+   	 	width: 80%;
+   	 	height: 33px;
+   	 	border-radius: 6px;
+   	 	border: none;
+    }
+    #form select:focus{
+    	outline: none;
+    	border: 1px solid #9ecaed;
+    box-shadow:0 0 10px #9ecaed;
+    }
+    .row button{
+    	margin-top: 3%;
+    	margin-bottom: 3%;
+    	background-color: #131356;
+    	font-family: 'Domine', serif;
+    	
+    }
+    .row button:focus{
+    	outline: none;
+    }
+    .row button:hover{
+    	background-color: #fff;
+    	color: #131356;
+    }
+  
+

@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;1,400&display=swap');
+
+/* Fees Nav bar */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+#main h1{
+    margin: 0 0 10px;
+    font-family: "Poppins",sans-serif;
+}
+
+.nav{
+    background: linear-gradient(to left, cyan,teal);
+    height: 150px;
+}
+.navrap{
+    margin: auto;
+}
+.nav-header{
+    padding-top: 30px;
+    padding-left: 0%;
+}
+.nav-header a{
+    color: #fff;
+    font-size: 25px;
+}
+
+.nav-list li a{
+    color: #fff;
+    font-size: 20px;
+}
+.nav-list li a:hover{
+    background-color: rgba(0, 0, 0, 0.3);
+    /* padding-top: 10px;
+    padding-bottom: 10px; */
+    padding: 10px;
+    border-radius: 20px;
+}
+.nav-list{
+    float: right;
+}
+.nav-list li{
+    display: inline;
+    /* padding-left: 40px;
+    padding-right: 40px; */
+    padding: 30px;
+}
+.nav-search-course input{
+    width: 12%;
+    height: 35px;
+    padding-left: 15px;
+    font-weight: 700;
+    border-radius: 10px;
+    border: none;
+}
+
+/* Fees Structure Container */
+.container
+{
+    margin-top: 20px;
+}
+.container h2{
+    margin: 0 0 10px;
+}
+.container p{
+    margin: 0 0 10px;
+}
