@@ -1,1 +1,1 @@
-# Clg_Minor_Project
+# Univercity Admission Portal
