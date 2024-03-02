@@ -1,1 +1,1 @@
-# Univercity Admission Portal
+# University Admission Portal
